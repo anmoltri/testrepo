@@ -1,0 +1,6 @@
+﻿ORDER_ID,DELIVERY_MONTH,RETAILER,METRO,STATE,CATEGORY_TYPE,TIER_ONE_CATEGORY,TIER_TWO_CATEGORY,TOTAL_SALES
+116516078,2022-02-01,Target,Sioux Falls,SD,Cryptex,Snacks & Candy,Candy & Chocolate,2.97
+116516078,2022-02-01,Target,Sioux Falls,SD,Cryptex,Entertainment,Books,16.18
+116516078,2022-02-01,Target,Sioux Falls,SD,Cryptex,Gift & Party,Gifts & Bouquets,3.75
+116516078,2022-02-01,Target,Sioux Falls,SD,Cryptex,Toys,Action Figures & Dolls,9.98
+116516078,2022-02-01,Target,Sioux Falls,SD,Cryptex,Dairy,Cream & Creamers,5.39
